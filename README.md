@@ -1,6 +1,9 @@
 # Battle_of_Sexes
 Programming 2 exam project
 
+
+![](https://github.com/PhilHippo/Battle-of-Sexes/blob/main/Chart_ratio_1.png)
+
 This project is inspired by Chapter 9 of The Selfish Gene, a famous book by
 Richard Dawkins that builds upon the Adaptation and Natural Selection theory as
 a way of expressing the gene-centered view of evolution.
